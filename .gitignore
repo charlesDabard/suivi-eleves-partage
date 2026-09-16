@@ -2,7 +2,8 @@
 .build/
 *.dmg
 *.app/
-screenshots/
+screenshots/*
+!screenshots/suivi-eleves.png
 .swiftpm/
 .serena/
 .claude/

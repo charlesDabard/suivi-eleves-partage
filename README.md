@@ -2,6 +2,8 @@
 
 Petite app macOS native pour suivre des élèves en direct pendant un cours. Un tableau, des colonnes de statut cliquables, une note par case. Elle vit dans la barre de menus (pas d'icône dans le Dock), se compile sans Xcode, et range tout dans un fichier JSON lisible.
 
+![Capture d'écran de l'app : tableau des élèves, colonnes de statut « en cours » et « validé », et une note de case](screenshots/suivi-eleves.png)
+
 ---
 
 ## Fonctionnalités
